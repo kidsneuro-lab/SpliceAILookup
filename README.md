@@ -20,6 +20,9 @@ This was developed to address a couple of use cases
 ### Invoking SpliceAILookup
 ```docker-compose -f docker.compose.yml -d```
 
+Then open http://localhost:9001/spliceai/
+
+
 ### Shutting down SpliceAILookup
 ```docker-compose down```
 
