@@ -1,3 +1,5 @@
+## NOTE: This is now superseded by [SpliceAIAPI](https://github.com/kidsneuro-lab/SpliceAIAPI) and [SpliceSight](https://github.com/kidsneuro-lab/SpliceSight)
+
 # SpliceAILookup
 
 Web frontend to inspect SpliceAI raw scores. Heavily inspired by https://spliceailookup.broadinstitute.org/
